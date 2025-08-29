@@ -1,0 +1,77 @@
+[
+    
+{
+  "countryData": [
+    {
+      "id": 1,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 212559417,
+      "interestingFact": "Brazil is home to the Amazon Rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 2,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67407241,
+      "interestingFact": "The Eiffel Tower in Paris was once the tallest man-made structure in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Russia",
+      "capital": "Moscow",
+      "population": 145912025,
+      "interestingFact": "Russia is the largest country in the world by land area."
+    },
+    {
+      "id": 4,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1380004385,
+      "interestingFact": "India is home to the Taj Mahal, a UNESCO World Heritage Site."
+    },
+    {
+      "id": 5,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125360000,
+      "interestingFact": "Japan has over 6,800 islands, including Hokkaido and Okinawa."
+    },
+    {
+      "id": 6,
+      "countryName": "Australia",
+      "capital": "Canberra",
+      "population": 25659000,
+      "interestingFact": "Australia is both a country and a continent."
+    },
+    {
+      "id": 7,
+      "countryName": "Egypt",
+      "capital": "Cairo",
+      "population": 104258327,
+      "interestingFact": "Egypt is famous for the ancient Pyramids of Giza."
+    },
+    {
+      "id": 8,
+      "countryName": "Canada",
+      "capital": "Ottawa",
+      "population": 38454327,
+      "interestingFact": "Canada has the longest coastline of any country in the world."
+    },
+    {
+      "id": 9,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 60461826,
+      "interestingFact": "Italy is home to the smallest country in the world, Vatican City."
+    },
+    {
+      "id": 10,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": 59308690,
+      "interestingFact": "South Africa has three capital cities: Pretoria, Cape Town, and Bloemfontein."
+    }
+  ]
+}
+]
