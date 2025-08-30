@@ -5,7 +5,6 @@ import { ErrorPage } from "./pages/ErrorPage";
 
 import { Home } from "./pages/Home";
 import { About } from "./pages/About";
-import { Country } from "./pages/Country";
 import { Contact } from "./pages/Contact";
 
 const router = createBrowserRouter([
@@ -22,10 +21,7 @@ const router = createBrowserRouter([
         path: "about",   
         element: <About />,
       },
-      {
-        path: "country",
-        element: <Country />,
-      },
+     
       {
         path: "contact",
         element: <Contact />,
